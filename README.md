@@ -1,0 +1,1 @@
+Run `highlighter.py` to get GUI.
